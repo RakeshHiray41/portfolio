@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Rakesh Hiray Portfolio",
     type: "website",
-    url: "https://Rakesh-kushwah.github.io/my-portfolio/",
+    url: "https://Rakesh-hiray.github.io/my-portfolio/",
   },
 };
 
@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Rakesh Hiray",
   logo_name: "Rakesh Hiray",
-  nickname: "Rakuu",
+  nickname: "Rakeshu",
   subTitle: [
     "Web Developer",
     "Crafting innovative solutions through code",
@@ -34,9 +34,9 @@ const greeting = {
     "Code Alchemist",
     "Tech Explorer",
   ],
-  // resumeLink:
-  // "https://drive.google.com/file/d/1NnlLuHJPsNn3YUqvDi4qwBtcerHUR-lk/view?usp=sharing",
-  // portfolio_repository: "https://github.com/Rakesh-Kushwah/my-portfolio",
+   resumeLink:
+   "https://drive.google.com/file/d/14tdVicaVnR-wVDU6jEaUECpoScmeJkEB/view?usp=sharing",
+  // portfolio_repository: "https://github.com/Rakesh-hiray/my-portfolio",
   githubProfile: "https://github.com/RakeshHiray41",
 };
 
@@ -70,7 +70,7 @@ const socialMediaLinks = [
   },
   // {
   //   name: "X-Twitter",
-  //   link: "https://twitter.com/RakeshKushwah_7",
+  //   link: "https://twitter.com/Rakeshhiray_7",
   //   fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
   //   backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   // },
@@ -247,7 +247,7 @@ const competitiveSites = {
     //   style: {
     //     color: "#2EC866",
     //   },
-    //   profileLink: "https://www.hackerrank.com/profile/Rakeshkushwah541",
+    //   profileLink: "https://www.hackerrank.com/profile/Rakeshhiray541",
     // },
     // {
     //   siteName: "Codechef",
@@ -255,7 +255,7 @@ const competitiveSites = {
     //   style: {
     //     color: "#5B4638",
     //   },
-    //   profileLink: "https://www.codechef.com/users/Rakeshkushwah7",
+    //   profileLink: "https://www.codechef.com/users/Rakeshhiray7",
     // },
     // {
     //   siteName: "Codeforces",
@@ -263,7 +263,7 @@ const competitiveSites = {
     //   style: {
     //     color: "#1F8ACB",
     //   },
-    //   profileLink: "http://codeforces.com/profile/Rakesh-Kushwah",
+    //   profileLink: "http://codeforces.com/profile/Rakesh-hiray",
     // },
   ],
 };
@@ -396,7 +396,7 @@ const publications = {
     //   name: "Snap Attendance",
     //   createdAt: "2023-10-23",
     //   description: "A secure, blockchain-backed solution that combines image recognition and smart contracts to streamline attendance tracking. Enhance accuracy and transparency in various settings, from classrooms to corporate environments",
-    //   url: "https://github.com/Rakesh-Kushwah/Snap-Attendance",
+    //   url: "https://github.com/Rakesh-hiray/Snap-Attendance",
     // },
   ],
 };

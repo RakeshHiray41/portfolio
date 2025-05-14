@@ -1,13 +1,13 @@
 # My Portfolio 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Rakesh-Kushwah/my-portfolio?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Rakesh-hiray/my-portfolio?style=social)
 ![React](https://img.shields.io/badge/react-20242F?logo=react) ![License](https://img.shields.io/github/license/ashutosh1919/masterPortfolio.svg)
 
 Welcome to my personal portfolio, showcasing my skills, projects, and experience as a software developer. This portfolio is built using the [Software Developer Master Portfolio](https://github.com/ashutosh1919/masterPortfolio) template.
 
 ## Live Demo 🌐
 
-Check out my portfolio live at: [view](https://Rakesh-kushwah.github.io/my-portfolio/)
+Check out my portfolio live at: [view](https://Rakesh-hiray.github.io/my-portfolio/)
 
 ## Installation and Setup 📋
 
@@ -15,7 +15,7 @@ To set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-    git clone https://github.com/Rakesh-Kushwah/my-portfolio.git
+    git clone https://github.com/Rakesh-hiray/my-portfolio.git
    ```
 2. **Navigate to the project directory:**
    ```bash
