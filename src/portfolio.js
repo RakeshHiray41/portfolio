@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Rakesh Hiray",
   logo_name: "Rakesh Hiray",
-  nickname: "Rakeshu",
+  nickname: "Rakesh",
   subTitle: [
     "Web Developer",
     "Crafting innovative solutions through code",
